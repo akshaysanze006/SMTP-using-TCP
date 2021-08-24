@@ -28,3 +28,18 @@ Algorithm:
  7. send mail to server2 
  8. If mail received from server2 then
  9. send mail to client 
+
+SERVER 1
+login1.txt 
+dolly@gmail.com//dolly 
+rohan@gmail.com//rohan 
+nikki@gmail.com//nikki 
+sunny@gmail.com//sunny 
+• login2.txt 
+chandler@yahoo.com//chandler 
+monica@yahoo.com//monica 
+phoebe@yahoo.com//phoebe 
+rachel@yahoo.com//rachel 
+ross@yahoo.com//ross 
+joey@yahoo.com//joey 
+
