@@ -5,6 +5,8 @@ Most of the internet systems use SMTP as a method to transfer mail from one user
 
 Algorithm: 
 • Client 
+
+
  1.Create client socket. 
  2. Accept username and password from user and send to clients output stream.  3. Get response from server to ‘response’. 
  4. If response= “success” then 
@@ -19,6 +21,8 @@ Algorithm:
  1. Read mail from user 
  2. Print mail. 
 • Server 
+
+
  1. Create server socket. 
  2. Get username and password. 
  3. If valid then 
